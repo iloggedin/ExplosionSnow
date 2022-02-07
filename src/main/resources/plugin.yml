@@ -1,0 +1,5 @@
+name: ExplosionSnow
+version: '${version}'
+main: me.iloggedin.explosionsnow.explosionsnow.ExplosionSnow
+api-version: 1.18
+description: explosive snowballs
